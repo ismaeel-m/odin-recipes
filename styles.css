@@ -1,0 +1,23 @@
+/* Global */
+
+*{
+    font-family: 'Raleway', 'Arial', 'sans-serif';
+}
+
+h1, h2, h3{
+    color: #836000;
+    font-weight: bold;
+}
+
+body{
+    background-color: #f1e9d3;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(211, 84, 62);
+}
+
+/* Home */
+
+/* Recipe */
