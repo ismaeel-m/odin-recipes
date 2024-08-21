@@ -20,4 +20,43 @@ a{
 
 /* Home */
 
+#home h1{
+    text-align: center;
+}
+
+.button-list{
+    text-align: center;
+}
+
+.button-list li{
+    display: inline-block;
+    background-color: #FFF;
+    padding: 8px 14px;
+    margin: 0px 10px;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.button-list li:hover{
+    text-decoration: underline;
+}
+
 /* Recipe */
+.recipe{
+    width: 600px;
+    margin: auto;
+}
+
+.recipe h1{
+    text-align: center;
+    font-size: 32px;
+}
+.recipe img{
+    display: block;
+    margin: auto;
+}
+
+.recipe h2, .recipe h3{
+    text-align: center;
+}
+
